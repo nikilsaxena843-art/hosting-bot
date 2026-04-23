@@ -1,5 +1,9 @@
-# requirements.txt
-# Required packages for the bot hosting platform
+pyTelegramBotAPI==4.22.1
+psutil==6.0.0
+pytz==2024.1
+python-dotenv==1.0.1
+requests==2.32.3
 
-pyTelegramBotAPI>=4.22.1          # Telegram Bot API library (telebot)
-psutil>=5.9.8                     # For CPU/RAM monitoring and process management
+# For better logging and error handling (optional but useful)
+setuptools
+wheel
