@@ -28,7 +28,7 @@ import pytz
 from telebot import types
 
 # ========================= CONFIGURATION SECTION =========================
-BOT_TOKEN = "8162307466:AAGiqcDsESd1sPAjj1EcD_0Bg3x0g9fwejg"   # ← CHANGE THIS TO YOUR BOT TOKEN
+BOT_TOKEN = "8162307466:AAFsJHVKNwU0RASdgYR6Ijq3Z6NioFG1GaU"   # ← CHANGE THIS TO YOUR BOT TOKEN
 ADMIN_ID = 6026998790                                           # ← CHANGE THIS TO YOUR TELEGRAM USER ID
 
 bot = telebot.TeleBot(BOT_TOKEN)
